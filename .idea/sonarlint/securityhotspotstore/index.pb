@@ -5,3 +5,5 @@ O
 contracts/partner-exchange.clar,6/d/6db5650797b2c9de707688d19ee42f41611be17b
 T
 $contracts/retailer-verification.clar,4/c/4cd63bde59c128f63d5d1cef0a66211a61753953
+N
+contracts/reward-issuance.clar,6/b/6bd9b50c0f67ca0742b77dbd61d647aa99ca481b
